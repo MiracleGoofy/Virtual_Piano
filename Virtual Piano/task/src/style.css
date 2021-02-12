@@ -1,0 +1,23 @@
+*{
+    margin-top: 0;
+    padding: 0;
+}
+body {
+    background-color: green;
+}
+.container {
+    width: 23%;
+    margin: 10% auto;
+    display: flex;
+}
+kbd{
+
+}
+.kbd {
+    border: gray 8px solid;
+    height: 300px;
+    width: 50%;
+    background-color: cornsilk;
+    text-align: center;
+    j
+}
