@@ -1,0 +1,18 @@
+document.addEventListener("keydown", function (e) {
+    if (e.key == "A" || e.key == "a")
+        console.log("The 'A' key is pressed.")
+    if (e.code == "S")
+        console.log("The 'S' key is pressed.")
+    else if (e.key == "D")
+        console.log("The 'D' key is pressed.")
+    else if (e.key == "F")
+        console.log("The 'F' key is pressed.")
+    else if (e.key == "G")
+        console.log("The 'G' key is pressed.")
+    else if (e.key == "H")
+        console.log("The 'H' key is pressed.")
+    else if (e.key == "J")
+        console.log("The 'J' key is pressed.")
+    else
+        console.log("there is no such music key")
+})
