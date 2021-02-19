@@ -10,14 +10,10 @@ body {
     margin: 10% auto;
     display: flex;
 }
-kbd{
-
-}
-.kbd {
+.container > kbd{
     border: gray 8px solid;
     height: 300px;
     width: 50%;
-    background-color: cornsilk;
+    background-color: white;
     text-align: center;
-    j
 }
